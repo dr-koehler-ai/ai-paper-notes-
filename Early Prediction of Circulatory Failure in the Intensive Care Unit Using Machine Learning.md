@@ -1,4 +1,4 @@
-# Early prediction of circulatory failure in the intensive care unit using machine learning
+# Early prediction of circulatory failure in the intensive care unit using machine learning - Paper analysis
 
 Authors: SL. Harland et al.
 Category: Machine Learning
